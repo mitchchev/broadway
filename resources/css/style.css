@@ -4,11 +4,11 @@ body {
 }
 h1 {
   font-size: 70px;
-  font-weight: bold;
-  color: white;
 }
 .background {
   background-image: url(../the-flatiron-building.png);
+  color: white;
+  font-weight: bold;
 }
 .footer {
   background-color: dimgray;
@@ -16,12 +16,22 @@ h1 {
   text-align: left;
   font-size: 11px;
 }
-#nav {
+.footer a {
+  font-weight: bold;
+}
+.background a {
   color: white;
   font-size: 18px;
-}
-#link {
-  color: white;
   font-weight: bold;
-  
+}
+h2 {
+  font-size: 32px;
+  font-weight: bold;
+}
+h3 {
+  font-size: 23px;
+  font-weight: bold;
+}
+.descr {
+  font-size: 14px;
 }
