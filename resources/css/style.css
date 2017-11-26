@@ -10,6 +10,11 @@ h1 {
   color: white;
   font-weight: bold;
 }
+.background a {
+  color: white;
+  font-size: 18px;
+  font-weight: bold;
+}
 .footer {
   background-color: dimgray;
   color: white;
@@ -18,11 +23,7 @@ h1 {
 }
 .footer a {
   font-weight: bold;
-}
-.background a {
   color: white;
-  font-size: 18px;
-  font-weight: bold;
 }
 h2 {
   font-size: 32px;
